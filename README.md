@@ -111,8 +111,7 @@ Users can create deviation records including:
 - Product Quality Monitoring
 - GMP Compliance Thinking
 
-<h2>🎬 QMS Deviation Management Demo</h2>
+<h2>screenshots</h2>h2>
 
-<a href="E:\QMS\QMS\assets\Signup and 1 more page - Personal - Microsoft​ Edge 2026-03-27 12-52-07.mp4">
 
-</a>
+<img src="assets/Login and 1 more page - Personal - Microsoft​ Edge 27-03-2026 14_39_12.png" width="700"/>
