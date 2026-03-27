@@ -114,4 +114,4 @@ Users can create deviation records including:
 <h2>screenshots</h2>
 
 
-<img src="assets/login.png" width="70%"/>
+<img src="QMS/assets/login.png width="70%"/>
