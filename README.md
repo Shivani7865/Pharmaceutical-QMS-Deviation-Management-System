@@ -114,5 +114,5 @@ Users can create deviation records including:
 <h2>🎬 QMS Deviation Management Demo</h2>
 
 <a href="E:\QMS\QMS\assets\Signup and 1 more page - Personal - Microsoft​ Edge 2026-03-27 12-52-07.mp4">
-  <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" width="700">
+
 </a>
