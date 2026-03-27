@@ -112,6 +112,6 @@ Users can create deviation records including:
 - GMP Compliance Thinking
 
 <h2>screenshots</h2>
-
-
-<img src="QMS/assets/login.png width="70%"/>
+<p align="center">
+<img src="assets/images/login.png" />
+</p>
