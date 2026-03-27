@@ -111,7 +111,7 @@ Users can create deviation records including:
 - Product Quality Monitoring
 - GMP Compliance Thinking
 
-<h2>screenshots</h2>h2>
+<h2>screenshots</h2>
 
 
 <img src="assets/Login and 1 more page - Personal - Microsoft​ Edge 27-03-2026 14_39_12.png" width="700"/>
