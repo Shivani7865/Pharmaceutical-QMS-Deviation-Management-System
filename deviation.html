@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>New Deviation</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h2>Deviation / Non-Conformance</h2>
+<button onclick="logout()">Logout</button>
+</header>
+
+<div class="container">
+
+<h3>Create New Deviation</h3>
+
+<input type="text" id="batch" placeholder="Batch Number">
+
+<select id="type">
+<option value="">Select Deviation Type</option>
+<option>Reactor Temperature Deviation</option>
+<option>Raw Material Issue</option>
+<option>pH Failure</option>
+<option>Equipment Breakdown</option>
+</select>
+
+<textarea id="description" placeholder="Describe deviation"></textarea>
+
+<button onclick="submitDeviation()">Submit Deviation</button>
+
+<h3 id="status"></h3>
+
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
