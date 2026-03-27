@@ -49,7 +49,7 @@ function signup(){
     window.location.pathname.includes("deviation")){
     
     if(localStorage.getItem("login")!=="true"){
-    window.location.href="login.html";
+    window.location.href="index.html";
     }
     }
     
@@ -70,7 +70,7 @@ function signup(){
     /* LOGOUT */
     function logout(){
     localStorage.removeItem("login");
-    window.location.href="login.html";
+    window.location.href="index.html";
     }
     
     
